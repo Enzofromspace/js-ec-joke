@@ -2,5 +2,13 @@
 import './style.css';
 
 // Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
+const buttonText = [
+  'Ugh.',
+  '🤦🏻‍♂️',
+  'omg dad.',
+  'you are the worst',
+  'seriously',
+  'stop it.',
+  'please stop',
+  'that was the worst one',
+];
